@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/ubuntobar/static/css/main.31d6cfe0.css",
+    "main.js": "/ubuntobar/static/js/main.f9347a7d.js",
+    "index.html": "/ubuntobar/index.html",
+    "main.f9347a7d.js.map": "/ubuntobar/static/js/main.f9347a7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f9347a7d.js"
+  ]
+}
