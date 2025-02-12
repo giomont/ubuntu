@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/ubuntobar/static/css/main.31d6cfe0.css",
-    "main.js": "/ubuntobar/static/js/main.f9347a7d.js",
+    "main.js": "/ubuntobar/static/js/main.3d4921ec.js",
     "index.html": "/ubuntobar/index.html",
-    "main.f9347a7d.js.map": "/ubuntobar/static/js/main.f9347a7d.js.map"
+    "main.3d4921ec.js.map": "/ubuntobar/static/js/main.3d4921ec.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.f9347a7d.js"
+    "static/js/main.3d4921ec.js"
   ]
 }
