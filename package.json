@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://giomont.github.io/ubuntobar",
+  "homepage": "http://giomont.github.io/ubuntubar",
   "browserslist": {
     "production": [
       ">0.2%",
