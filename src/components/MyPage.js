@@ -6,6 +6,7 @@ const MyPage = () => {
         <div>
             <h1>UBUNTU </h1>
             <p>conversa sabrosa.</p>
+            <p>PRODUCTOS</p>
         </div>
     );
 };
