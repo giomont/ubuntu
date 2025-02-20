@@ -1,7 +1,6 @@
 import React from 'react';
-import exampleImage from '../assets/images/Captura.jpg';
+import exampleImage from '../assets/images/exampleImage.jpg'; // Asegúrate de que la ruta sea correcta
 
-// Definición del nuevo componente
 const NewComponent = () => {
     return (
         <div>
