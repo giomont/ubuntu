@@ -1,5 +1,5 @@
 import React from 'react';
-import exampleImage from '../assets/images/exampleImage.jpg'; // Asegúrate de que la ruta sea correcta
+import exampleImage from 'https://github.com/giomont/ubuntu/blob/main/src/assets/images/exampleImage.JPG'; // Asegúrate de que la ruta sea correcta
 
 const NewComponent = () => {
     return (
